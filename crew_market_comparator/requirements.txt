@@ -1,0 +1,7 @@
+crewai
+browser-use
+litellm
+playwright
+pandas
+tqdm
+python-dotenv
